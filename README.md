@@ -21,17 +21,19 @@ BKAI dataset follows an 80:10:10 split for training, validation and testing, whi
 ### 3.2 Weight file
 Updated soon.
 
-## 4. Quantative Results
+## 4. Results
+
+### 4.1 Quantative Results
 Updated soon.
 
-## 5. Qualitative Results
+### 4.2 Qualitative Results
 <img src="images/qualitative.jpg">
 
-## 6. Citation
+## 5. Citation
 Updated soon.
 
-## 7. License
+## 6. License
 The source code is free for research and education use only. Any comercial use should receive a formal permission from the first author.
 
-## 8. Contact
+## 7. Contact
 Please contact nikhilroxtomar@gmail.com for any further questions. 
