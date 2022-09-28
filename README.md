@@ -19,7 +19,8 @@ We have used the following datasets:
 BKAI dataset follows an 80:10:10 split for training, validation and testing, while the Kvasir-SEG follows an official split of 880/120.
 
 ### 3.2 Weight file
-Updated soon.
+[Kvasir-SEG](https://drive.google.com/file/d/1ekuDE3EmBVyU4uXf9r5HEnIO3Mzw5u7w/view?usp=sharing)
+[BKAI-IGH](https://drive.google.com/file/d/1pYvRa-KEcOSzR665Dkr9seXlaHT3rkyO/view?usp=sharing)
 
 ## 4. Results
 
