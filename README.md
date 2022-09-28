@@ -24,7 +24,8 @@ Updated soon.
 ## 4. Results
 
 ### 4.1 Quantative Results
-Updated soon.
+<img src="images/result-1.png">
+<img src="images/result-2.png">
 
 ### 4.2 Qualitative Results
 <img src="images/qualitative.jpg">
