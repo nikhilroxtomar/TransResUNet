@@ -1,4 +1,5 @@
 # TransResU-Net: Transformer based ResU-Net for Real-Time Colonoscopy Polyp Segmentation
+Arxiv Link: [TransResU-Net: Transformer based ResU-Net for Real-Time Colonoscopy Polyp Segmentation](https://arxiv.org/pdf/2206.08985.pdf)
 
 ## 1. Abstract
 <div align="justify">
