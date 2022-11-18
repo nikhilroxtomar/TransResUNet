@@ -31,6 +31,7 @@ BKAI dataset follows an 80:10:10 split for training, validation and testing, whi
 
 ### 4.2 Qualitative Results
 <img src="images/qualitative.jpg">
+<center> Qualitative results comparison along with the heatmap </center>
 
 ## 5. Citation
 <pre>
