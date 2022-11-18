@@ -33,10 +33,15 @@ BKAI dataset follows an 80:10:10 split for training, validation and testing, whi
 <img src="images/qualitative.jpg">
 
 ## 5. Citation
-Updated soon.
+@article{tomar2022transresu,
+  title={TransResU-Net: Transformer based ResU-Net for Real-Time Colonoscopy Polyp Segmentation},
+  author={Tomar, Nikhil Kumar and Shergill, Annie and Rieders, Brandon and Bagci, Ulas and Jha, Debesh},
+  journal={arXiv preprint arXiv:2206.08985},
+  year={2022}
+}
 
 ## 6. License
-The source code is free for research and education use only. Any comercial use should receive a formal permission from the first author.
+The source code is free for research and education use only. Any comercial use, please contact us. 
 
 ## 7. Contact
 Please contact nikhilroxtomar@gmail.com for any further questions. 
